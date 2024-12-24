@@ -1,4 +1,4 @@
-anjengggg ngapain lo!!
+APK ai all code
 # [sange](https://jekyllrb.com/)
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
